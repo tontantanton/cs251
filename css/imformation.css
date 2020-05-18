@@ -1,0 +1,14 @@
+body {
+	background-image: url(img/back4.jpg);
+}
+
+#all{
+	
+	margin: 50px;
+	   font-family:Times New Roman;
+	   background-color: #ffffff;
+  
+  opacity: 0.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+ 

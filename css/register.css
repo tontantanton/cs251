@@ -1,0 +1,22 @@
+body {
+	background-image: url(img/back1.jpg);
+	font-family:Tahoma;
+}
+table{
+		
+  background-color: 	 #ffffff;
+ 
+  opacity: 0.8;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+input[type=text] {
+    
+    
+    box-sizing: border-box;
+    border: none;
+    background-color: black;
+    color: white;
+}
+font{
+	color: black;
+}
